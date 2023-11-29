@@ -1,9 +1,9 @@
-#Projeto Mbpe Motors
+# Projeto Mbpe Motors
 
-##Descrição:
+## Descrição:
 O projeto Mbpe Motors é uma plataforma de comércio eletrônico desenvolvida como parte do curso de graduação na Unimetrocamp Wyden. O objetivo principal é simular uma experiência de compra e venda de veículos, proporcionando aos usuários uma interface intuitiva e recursos interativos.
 
-##Funcionalidades Principais:
+## Funcionalidades Principais:
 
 Catálogo de Carros: Apresenta uma variedade de carros com informações detalhadas, incluindo modelo, ano, preço e características específicas.
 
@@ -11,14 +11,14 @@ Suporte: Implementa um processo de suporte simulado, fornecendo informações pa
 
 Área do Usuário: Oferece aos usuários a possibilidade de criar contas e fazer login.
 
-##Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 Frontend: HTML, CSS, JavaScript.
 Backend: Pytho, Django Rest Framework
 Banco de Dados: SqLite
 Controle de Versão: Git (GitHub)
 
-##Equipe:
+## Equipe:
 
 * Gabriel Tejero Carazzatto
 * Gabriel Rocha

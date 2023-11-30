@@ -5,18 +5,18 @@ O projeto Mbpe Motors é uma plataforma de comércio eletrônico desenvolvida co
 
 ## Funcionalidades Principais:
 
-Catálogo de Carros: Apresenta uma variedade de carros com informações detalhadas, incluindo modelo, ano, preço e características específicas.
+1. Catálogo de Carros: Apresenta uma variedade de carros com informações detalhadas, incluindo modelo, ano, preço e características específicas.
 
-Suporte: Implementa um processo de suporte simulado, fornecendo informações para contato com nossa equipe de atendimento.
+2. Suporte: Implementa um processo de suporte simulado, fornecendo informações para contato com nossa equipe de atendimento.
 
-Área do Usuário: Oferece aos usuários a possibilidade de criar contas e fazer login.
+3. Área do Usuário: Oferece aos usuários a possibilidade de criar contas e fazer login.
 
 ## Tecnologias Utilizadas:
 
-Frontend: HTML, CSS, JavaScript.
-Backend: Pytho, Django Rest Framework
-Banco de Dados: SqLite
-Controle de Versão: Git (GitHub)
+* Frontend: HTML, CSS, JavaScript.
+* Backend: Pytho, Django Rest Framework
+* Banco de Dados: SqLite
+* Controle de Versão: Git (GitHub)
 
 ## Equipe:
 

@@ -10,13 +10,12 @@ confirmar.onclick = function logar() {
         let logado = false
         dados.map((registro) => {
             if (registro.email == email && registro.senha == senha) {
+                logado = !logado
                 Swal.fire({
                     title: 'Sucesso!',
                     text: `Seja bem-vindo de volta ${registro.nome}!`,
                     icon: 'success',
                   })
-
-                logado = !logado
             }
 
             else if (registro.id == dados.length && logado == false) {
